@@ -29,9 +29,13 @@ echo $zanoxDeepLink->getDeeplink('PRODUCT_URL');
 
 ```
 
+Go to http://toolbox.zanox.com/deeplink/ to get your Adspace et Advertiser values.
+Try to generate a Deeplink for a shop of your choice, and see the screenshot files to know how to get values.
+
 ADVERTISER is an optional parameter. Use it only if you have multiple program available for your URL.
 
 ![Screen of Zanox Deeplink Generator](https://raw.githubusercontent.com/rtrompier/Zanox-Deeplink-API/master/install/screen.png )
+![Screen of Zanox Deeplink Generator](https://raw.githubusercontent.com/rtrompier/Zanox-Deeplink-API/master/install/screen2.png )
 
 License
 ----

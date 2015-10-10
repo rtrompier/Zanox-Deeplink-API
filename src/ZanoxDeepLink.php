@@ -4,7 +4,7 @@
         var $dataDeepLink;
         var $redirectUrl;
 
-        function __construct($login, $password, $zanoxAdspace, $zanoxAdvertiser) {
+        function __construct($login, $password, $zanoxAdspace, $zanoxAdvertiser = '') {
             if(is_null($login) || $login == ''){
                 throw new Exception('Login can not be null or empty');
             }
