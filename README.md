@@ -35,7 +35,7 @@ Try to generate a Deeplink for a shop of your choice, and see the screenshot fil
 ADVERTISER is an optional parameter. Use it only if you have multiple program available for your URL.
 
 ![Screen of Zanox Deeplink Generator](https://raw.githubusercontent.com/rtrompier/Zanox-Deeplink-API/master/install/screen.png )
-![Screen of Zanox Deeplink Generator](https://raw.githubusercontent.com/rtrompier/Zanox-Deeplink-API/master/install/screen2.png )
+![Screen of Zanox Deeplink Generator](https://raw.githubusercontent.com/rtrompier/Zanox-Deeplink-API/master/install/screen2.jpg )
 
 License
 ----
